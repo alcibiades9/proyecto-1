@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background: linear-gradient(to right ,#545454,#7A7A7A,#B4B4B4,#7A7A7A, #545454);
+
+}
+
+h1{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+    box-shadow: 7px 13px 37px #000;
+    margin-top: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+li{
+    list-style: none;
+}
